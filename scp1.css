@@ -1,0 +1,31 @@
+#scp {
+    height: 75px;
+    width: 75px;
+}
+.yellow {
+    color:yellow;
+}
+.card-body {
+    background-color: black;
+    box-shadow: 12px 12px 2px 1px rgba(238, 49, 49, 0.2);
+}
+.white {
+    color: white;
+}
+.red {
+    color: red;
+    
+}
+main {
+    background-image: url(https://avatars.mds.yandex.net/i?id=1ce2b22ed13dc98e02f0fea8964cfbcd3e27df89-4724414-images-thumbs&n=13);
+}
+#bc {
+    background-image: url(https://avatars.mds.yandex.net/i?id=1ce2b22ed13dc98e02f0fea8964cfbcd3e27df89-4724414-images-thumbs&n=1);
+}
+#cat {
+    background-color: rgba(0, 0, 0, 0.329);
+    border-radius: 15px;
+}
+#frutella {
+    height: 250px;
+}

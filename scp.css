@@ -1,0 +1,83 @@
+.blog-footer {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+body {
+    background-image: url(https://phonoteka.org/uploads/posts/2022-01/1642756547_8-phonoteka-org-p-serii-matovii-fon-8.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.row mb-2 {
+    display: flex;
+    justify-content: center;
+}
+header {
+    background-color: rgb(0, 0, 0);
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+.yooo {
+    color: rgb(255, 255, 255);
+}
+#fon1 {
+    background-image: url(https://avatars.mds.yandex.net/i?id=faaf378152be5b17581c8062cb62b746b2d29ae1-7673608-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+.row {
+    padding-top: 30px;
+}
+#papaduru {
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+#papaduru1 {
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+#aboba > li > a {
+    text-decoration: none;
+    font-size: larger;
+    color: aliceblue;
+}
+#aboba > li > a:hover{
+    text-decoration: underline;
+    font-size: larger;
+}
+#papaduru2 {
+    background-image: url(https://avatars.mds.yandex.net/i?id=dba98939fe8734bccab2fd166e9910a9e4cf8033-5834815-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+}
+#papaduru3{
+    background-color: black;
+    border-radius: 15px;
+    height: 700px;
+}
+#sosiska {
+    color: brown;
+}
+#papaduru4 {
+    background-color: rgba(255, 255, 255, 0.685);
+    border-radius:15px ;
+}
+#logo {
+    display: flex;
+    justify-content: start;
+} 
+#scp {
+    height: 75px;
+    width: 75px;
+}
